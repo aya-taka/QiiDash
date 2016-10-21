@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# pycharm and django project files
+migrations/
+.idea/
+
 # C extensions
 *.so
 
